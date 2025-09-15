@@ -6,11 +6,11 @@ A modern Laravel application for managing actor information submissions with AI-
 
 Watch the application in action:
 
-<video src="https://github.com/talkwaqar/laravel-openai-actor-system/raw/master/docs/demo/actor-management-demo.mp4" controls width="100%" style="max-width: 800px;">
-    Your browser does not support the video tag.
-</video>
+![Demo Video](docs/demo/actor-management-demo.mp4)
 
 > See the complete workflow from actor submission to AI-powered data extraction and management.
+> 
+> *Note: If the video doesn't play automatically, click [here](docs/demo/actor-management-demo.mp4) to download and view*
 
 ## 🌟 **Features**
 
